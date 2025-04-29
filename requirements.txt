@@ -1,0 +1,4 @@
+customtkinter
+requests
+imaplib2
+python-dotenv
